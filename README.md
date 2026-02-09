@@ -6,9 +6,8 @@ Working as a GIS Specialist for almost 4 years, i want to expand my knowledge an
 
 -🧩 Currently i'm working on some Romania extented climate data.
 
--📚 Learning never ends. Now, my mind is absorbed by applying geopandas and arcpy. 
+-📚 Learning never ends. Now, my mind is absorbed by applying geopandas and arcpy in my projects. 
 
-Follow up! But with patience 😅
 
 
 <!--
