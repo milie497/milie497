@@ -1,6 +1,6 @@
 # About me
 
-### Hi, all! I'm Emilia (or Mema) and i'm here to share some of my projects. 
+### Hi, all! I'm Emilia and i'm here to share some of my projects. 
 
 Working as a GIS Specialist for almost 4 years, i want to expand my knowledge and skills creating valuable and engaging nature-related projects 🌍 🌱
 
